@@ -51,8 +51,8 @@ if opcao == 1:
     #...
 elif opcao == 2:
     print("Exibindo o extrato...")
-else:
-    sys.exit("Opção inválida")
+#else:
+#    sys.exit("Opção inválida")
     
 # If Aninhado
 # If Ternário
