@@ -40,9 +40,9 @@ def sacar(self, valor: float) -> None: #inicio do bloco do método
 
   # Bloco em Python
 
-def sacar(self, valor: float) -> None: #inicio do bloco do método
-if self.saldo >= valor: #Inicio do bloco do If
-self.saldo -= valor
+#def sacar(self, valor: float) -> None: #inicio do bloco do método
+#if self.saldo >= valor: #Inicio do bloco do If
+#self.saldo -= valor
 # Fim do bloco do If
 #Fim do bloco do método
 
