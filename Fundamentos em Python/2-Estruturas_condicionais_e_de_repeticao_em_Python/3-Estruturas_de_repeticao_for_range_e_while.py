@@ -62,14 +62,14 @@ list(range(4))
 #utilizando range com for
 
 for numero in range (0,11):
-    print(numero,end="")
+    print(numero,end=" ")
 
 #>>>1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 
 #Exibindo tabuada do 5
 
 for numero in range (0, 51, 5):
-    print(numero, end="")
+    print(numero, end=" ")
 
 #>>> 5, 10, 15, 20, 25, 30, 35, 40, 45, 50
 
