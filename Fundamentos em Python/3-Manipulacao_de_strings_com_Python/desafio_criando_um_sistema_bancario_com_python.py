@@ -23,5 +23,9 @@ while True:
               
     elif opcao == "e":
         print("Extrato")
+
     elif opcao == "q":
      break
+
+    else:
+       print("Opção inválida. Por favor, selecione novamente a opção desejada")
